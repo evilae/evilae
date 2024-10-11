@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evilae
 - 👀 I’m interested in snakes
-- 🌱 i'm currently not learning anything
+- 🌱 i'm currently learning python
 - 💞️ I’m not looking to coleborate 
 
 <!---

@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in open-source projects, web development, and machine learning. I enjoy solving complex problems and contributing to the community. Here’s a bit more about me:
+idk gay
 
 - 🔭 I’m currently working on nothing hmfff
 - 🌱 I’m currently learning arabic my child
